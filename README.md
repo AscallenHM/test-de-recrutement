@@ -1,2 +1,8 @@
 # Test - Code smells
-1.  Faire un code review sous 2 jours (directement dans les codes sources en commentaire ou dans un fichier PDF)
+Refactorisez les codes en expliquant votre résonnement en commentaire (2 jours) :
+
+- 3 exos PHP
+- 1 exo JS
+- 1 exo SCSS
+
+PS : nous ne cherchons pas le code parfait, nous voulons évaluer votre capacité à réfléchir et solutionner un problème
